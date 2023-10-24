@@ -1,4 +1,6 @@
-### Hi there 👋
+🌱 I’m currently learning about diffusion models!
+
+![Metrics](/github-metrics.svg)
 
 <!--
 **quental96/quental96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
